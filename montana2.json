@@ -1,0 +1,6285 @@
+[
+    "wrong one",
+    [
+        {
+            "county": "Beaverhead",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 799,
+            "totalvotes": 4196
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3113,
+            "totalvotes": 4196
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 218,
+            "totalvotes": 4196
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 66,
+            "totalvotes": 4196
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 2345,
+            "totalvotes": 4161
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1651,
+            "totalvotes": 4161
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 101,
+            "totalvotes": 4161
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 64,
+            "totalvotes": 4161
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1246,
+            "totalvotes": 2759
+        },
+        {
+            "county": "Blaine",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1410,
+            "totalvotes": 2759
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 58,
+            "totalvotes": 2759
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 45,
+            "totalvotes": 2759
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 462,
+            "totalvotes": 2074
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1488,
+            "totalvotes": 2074
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 63,
+            "totalvotes": 2074
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 61,
+            "totalvotes": 2074
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1434,
+            "totalvotes": 4789
+        },
+        {
+            "county": "Carbon",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3008,
+            "totalvotes": 4789
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 237,
+            "totalvotes": 4789
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 110,
+            "totalvotes": 4789
+        },
+        {
+            "county": "Carter",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 53,
+            "totalvotes": 645
+        },
+        {
+            "county": "Carter",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 573,
+            "totalvotes": 645
+        },
+        {
+            "county": "Carter",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 10,
+            "totalvotes": 645
+        },
+        {
+            "county": "Carter",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 9,
+            "totalvotes": 645
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 13137,
+            "totalvotes": 33317
+        },
+        {
+            "county": "Cascade",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 18164,
+            "totalvotes": 33317
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 1202,
+            "totalvotes": 33317
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 814,
+            "totalvotes": 33317
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 686,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2039,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 86,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 74,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Custer",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1501,
+            "totalvotes": 4905
+        },
+        {
+            "county": "Custer",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3156,
+            "totalvotes": 4905
+        },
+        {
+            "county": "Custer",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 154,
+            "totalvotes": 4905
+        },
+        {
+            "county": "Custer",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 94,
+            "totalvotes": 4905
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 303,
+            "totalvotes": 1110
+        },
+        {
+            "county": "Daniels",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 750,
+            "totalvotes": 1110
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 39,
+            "totalvotes": 1110
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 18,
+            "totalvotes": 1110
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1364,
+            "totalvotes": 4271
+        },
+        {
+            "county": "Dawson",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2723,
+            "totalvotes": 4271
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 115,
+            "totalvotes": 4271
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 69,
+            "totalvotes": 4271
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 2672,
+            "totalvotes": 4534
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1493,
+            "totalvotes": 4534
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 232,
+            "totalvotes": 4534
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 137,
+            "totalvotes": 4534
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 256,
+            "totalvotes": 1369
+        },
+        {
+            "county": "Fallon",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1061,
+            "totalvotes": 1369
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 31,
+            "totalvotes": 1369
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 21,
+            "totalvotes": 1369
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1352,
+            "totalvotes": 5994
+        },
+        {
+            "county": "Fergus",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 4353,
+            "totalvotes": 5994
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 165,
+            "totalvotes": 5994
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 124,
+            "totalvotes": 5994
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 8329,
+            "totalvotes": 33839
+        },
+        {
+            "county": "Flathead",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 22519,
+            "totalvotes": 33839
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 2037,
+            "totalvotes": 33839
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 954,
+            "totalvotes": 33839
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 10009,
+            "totalvotes": 32040
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 18833,
+            "totalvotes": 32040
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 2545,
+            "totalvotes": 32040
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 653,
+            "totalvotes": 32040
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 61,
+            "totalvotes": 744
+        },
+        {
+            "county": "Garfield",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 651,
+            "totalvotes": 744
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 12,
+            "totalvotes": 744
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 20,
+            "totalvotes": 744
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 2211,
+            "totalvotes": 4124
+        },
+        {
+            "county": "Glacier",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1709,
+            "totalvotes": 4124
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 139,
+            "totalvotes": 4124
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 65,
+            "totalvotes": 4124
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 88,
+            "totalvotes": 531
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 405,
+            "totalvotes": 531
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 17,
+            "totalvotes": 531
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 21,
+            "totalvotes": 531
+        },
+        {
+            "county": "Granite",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 295,
+            "totalvotes": 1590
+        },
+        {
+            "county": "Granite",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1181,
+            "totalvotes": 1590
+        },
+        {
+            "county": "Granite",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 75,
+            "totalvotes": 1590
+        },
+        {
+            "county": "Granite",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 39,
+            "totalvotes": 1590
+        },
+        {
+            "county": "Hill",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 2760,
+            "totalvotes": 6558
+        },
+        {
+            "county": "Hill",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3392,
+            "totalvotes": 6558
+        },
+        {
+            "county": "Hill",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 278,
+            "totalvotes": 6558
+        },
+        {
+            "county": "Hill",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 128,
+            "totalvotes": 6558
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1513,
+            "totalvotes": 5163
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3308,
+            "totalvotes": 5163
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 189,
+            "totalvotes": 5163
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 153,
+            "totalvotes": 5163
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 278,
+            "totalvotes": 1394
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1057,
+            "totalvotes": 1394
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 31,
+            "totalvotes": 1394
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 28,
+            "totalvotes": 1394
+        },
+        {
+            "county": "Lake",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 3884,
+            "totalvotes": 11448
+        },
+        {
+            "county": "Lake",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 6441,
+            "totalvotes": 11448
+        },
+        {
+            "county": "Lake",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 762,
+            "totalvotes": 11448
+        },
+        {
+            "county": "Lake",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 361,
+            "totalvotes": 11448
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 9982,
+            "totalvotes": 27269
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 15091,
+            "totalvotes": 27269
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 1645,
+            "totalvotes": 27269
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 551,
+            "totalvotes": 27269
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 243,
+            "totalvotes": 1044
+        },
+        {
+            "county": "Liberty",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 752,
+            "totalvotes": 1044
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 24,
+            "totalvotes": 1044
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 25,
+            "totalvotes": 1044
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1629,
+            "totalvotes": 7846
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 5578,
+            "totalvotes": 7846
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 402,
+            "totalvotes": 7846
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 237,
+            "totalvotes": 7846
+        },
+        {
+            "county": "McCone",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 267,
+            "totalvotes": 1142
+        },
+        {
+            "county": "McCone",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 827,
+            "totalvotes": 1142
+        },
+        {
+            "county": "McCone",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 34,
+            "totalvotes": 1142
+        },
+        {
+            "county": "McCone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 14,
+            "totalvotes": 1142
+        },
+        {
+            "county": "Madison",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 758,
+            "totalvotes": 3656
+        },
+        {
+            "county": "Madison",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2656,
+            "totalvotes": 3656
+        },
+        {
+            "county": "Madison",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 161,
+            "totalvotes": 3656
+        },
+        {
+            "county": "Madison",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 81,
+            "totalvotes": 3656
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 176,
+            "totalvotes": 935
+        },
+        {
+            "county": "Meagher",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 698,
+            "totalvotes": 935
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 27,
+            "totalvotes": 935
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 34,
+            "totalvotes": 935
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 382,
+            "totalvotes": 1639
+        },
+        {
+            "county": "Mineral",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1078,
+            "totalvotes": 1639
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 127,
+            "totalvotes": 1639
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 52,
+            "totalvotes": 1639
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 17241,
+            "totalvotes": 46576
+        },
+        {
+            "county": "Missoula",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 21474,
+            "totalvotes": 46576
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 6999,
+            "totalvotes": 46576
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 862,
+            "totalvotes": 46576
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 512,
+            "totalvotes": 2207
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1582,
+            "totalvotes": 2207
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 53,
+            "totalvotes": 2207
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 60,
+            "totalvotes": 2207
+        },
+        {
+            "county": "Park",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 2154,
+            "totalvotes": 7406
+        },
+        {
+            "county": "Park",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 4523,
+            "totalvotes": 7406
+        },
+        {
+            "county": "Park",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 498,
+            "totalvotes": 7406
+        },
+        {
+            "county": "Park",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 231,
+            "totalvotes": 7406
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 36,
+            "totalvotes": 306
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 254,
+            "totalvotes": 306
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 6,
+            "totalvotes": 306
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 10,
+            "totalvotes": 306
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 423,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Phillips",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1727,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 44,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 34,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 792,
+            "totalvotes": 2896
+        },
+        {
+            "county": "Pondera",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1948,
+            "totalvotes": 2896
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 96,
+            "totalvotes": 2896
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 60,
+            "totalvotes": 2896
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 115,
+            "totalvotes": 1008
+        },
+        {
+            "county": "Powder River",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 860,
+            "totalvotes": 1008
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 21,
+            "totalvotes": 1008
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 12,
+            "totalvotes": 1008
+        },
+        {
+            "county": "Powell",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 638,
+            "totalvotes": 2832
+        },
+        {
+            "county": "Powell",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1971,
+            "totalvotes": 2832
+        },
+        {
+            "county": "Powell",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 129,
+            "totalvotes": 2832
+        },
+        {
+            "county": "Powell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 94,
+            "totalvotes": 2832
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 164,
+            "totalvotes": 746
+        },
+        {
+            "county": "Prairie",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 541,
+            "totalvotes": 746
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 24,
+            "totalvotes": 746
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 17,
+            "totalvotes": 746
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 4451,
+            "totalvotes": 17238
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 11241,
+            "totalvotes": 17238
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 1128,
+            "totalvotes": 17238
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 418,
+            "totalvotes": 17238
+        },
+        {
+            "county": "Richland",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1018,
+            "totalvotes": 4033
+        },
+        {
+            "county": "Richland",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2858,
+            "totalvotes": 4033
+        },
+        {
+            "county": "Richland",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 79,
+            "totalvotes": 4033
+        },
+        {
+            "county": "Richland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 78,
+            "totalvotes": 4033
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 2059,
+            "totalvotes": 3813
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1605,
+            "totalvotes": 3813
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 95,
+            "totalvotes": 3813
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 54,
+            "totalvotes": 3813
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1394,
+            "totalvotes": 3423
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1826,
+            "totalvotes": 3423
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 130,
+            "totalvotes": 3423
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 73,
+            "totalvotes": 3423
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1165,
+            "totalvotes": 4721
+        },
+        {
+            "county": "Sanders",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3144,
+            "totalvotes": 4721
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 305,
+            "totalvotes": 4721
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 107,
+            "totalvotes": 4721
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 702,
+            "totalvotes": 1965
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1176,
+            "totalvotes": 1965
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 62,
+            "totalvotes": 1965
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 25,
+            "totalvotes": 1965
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 8967,
+            "totalvotes": 16703
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 6299,
+            "totalvotes": 16703
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 876,
+            "totalvotes": 16703
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 561,
+            "totalvotes": 16703
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 925,
+            "totalvotes": 3918
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2765,
+            "totalvotes": 3918
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 141,
+            "totalvotes": 3918
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 87,
+            "totalvotes": 3918
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 305,
+            "totalvotes": 1846
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1450,
+            "totalvotes": 1846
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 59,
+            "totalvotes": 1846
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 32,
+            "totalvotes": 1846
+        },
+        {
+            "county": "Teton",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 847,
+            "totalvotes": 3314
+        },
+        {
+            "county": "Teton",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2294,
+            "totalvotes": 3314
+        },
+        {
+            "county": "Teton",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 102,
+            "totalvotes": 3314
+        },
+        {
+            "county": "Teton",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 71,
+            "totalvotes": 3314
+        },
+        {
+            "county": "Toole",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 630,
+            "totalvotes": 2378
+        },
+        {
+            "county": "Toole",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1639,
+            "totalvotes": 2378
+        },
+        {
+            "county": "Toole",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 77,
+            "totalvotes": 2378
+        },
+        {
+            "county": "Toole",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 32,
+            "totalvotes": 2378
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 106,
+            "totalvotes": 479
+        },
+        {
+            "county": "Treasure",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 344,
+            "totalvotes": 479
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 12,
+            "totalvotes": 479
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 17,
+            "totalvotes": 479
+        },
+        {
+            "county": "Valley",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 1273,
+            "totalvotes": 3963
+        },
+        {
+            "county": "Valley",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2500,
+            "totalvotes": 3963
+        },
+        {
+            "county": "Valley",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 103,
+            "totalvotes": 3963
+        },
+        {
+            "county": "Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 87,
+            "totalvotes": 3963
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 243,
+            "totalvotes": 999
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 708,
+            "totalvotes": 999
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 21,
+            "totalvotes": 999
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 27,
+            "totalvotes": 999
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 121,
+            "totalvotes": 518
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 369,
+            "totalvotes": 518
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 16,
+            "totalvotes": 518
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 12,
+            "totalvotes": 518
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Al Gore",
+            "party": "democrat",
+            "candidatevotes": 20370,
+            "totalvotes": 57499
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 33922,
+            "totalvotes": 57499
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Ralph Nader",
+            "party": "green",
+            "candidatevotes": 2145,
+            "totalvotes": 57499
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1062,
+            "totalvotes": 57499
+        }
+    ],
+    [
+        {
+            "county": "Beaverhead",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1103,
+            "totalvotes": 4242
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3067,
+            "totalvotes": 4242
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 72,
+            "totalvotes": 4242
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 2215,
+            "totalvotes": 4311
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2028,
+            "totalvotes": 4311
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 68,
+            "totalvotes": 4311
+        },
+        {
+            "county": "Blaine",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1300,
+            "totalvotes": 2768
+        },
+        {
+            "county": "Blaine",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1424,
+            "totalvotes": 2768
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 44,
+            "totalvotes": 2768
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 533,
+            "totalvotes": 2353
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1778,
+            "totalvotes": 2353
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 42,
+            "totalvotes": 2353
+        },
+        {
+            "county": "Carbon",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1847,
+            "totalvotes": 5321
+        },
+        {
+            "county": "Carbon",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3342,
+            "totalvotes": 5321
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 132,
+            "totalvotes": 5321
+        },
+        {
+            "county": "Carter",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 76,
+            "totalvotes": 709
+        },
+        {
+            "county": "Carter",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 623,
+            "totalvotes": 709
+        },
+        {
+            "county": "Carter",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 10,
+            "totalvotes": 709
+        },
+        {
+            "county": "Cascade",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 13701,
+            "totalvotes": 33459
+        },
+        {
+            "county": "Cascade",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 19028,
+            "totalvotes": 33459
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 730,
+            "totalvotes": 33459
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 946,
+            "totalvotes": 2921
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1913,
+            "totalvotes": 2921
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 62,
+            "totalvotes": 2921
+        },
+        {
+            "county": "Custer",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1630,
+            "totalvotes": 5048
+        },
+        {
+            "county": "Custer",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3297,
+            "totalvotes": 5048
+        },
+        {
+            "county": "Custer",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 121,
+            "totalvotes": 5048
+        },
+        {
+            "county": "Daniels",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 326,
+            "totalvotes": 1119
+        },
+        {
+            "county": "Daniels",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 764,
+            "totalvotes": 1119
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 29,
+            "totalvotes": 1119
+        },
+        {
+            "county": "Dawson",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1494,
+            "totalvotes": 4484
+        },
+        {
+            "county": "Dawson",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2884,
+            "totalvotes": 4484
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 106,
+            "totalvotes": 4484
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 2700,
+            "totalvotes": 4543
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1725,
+            "totalvotes": 4543
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 118,
+            "totalvotes": 4543
+        },
+        {
+            "county": "Fallon",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 289,
+            "totalvotes": 1491
+        },
+        {
+            "county": "Fallon",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1178,
+            "totalvotes": 1491
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 24,
+            "totalvotes": 1491
+        },
+        {
+            "county": "Fergus",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1582,
+            "totalvotes": 6127
+        },
+        {
+            "county": "Fergus",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 4425,
+            "totalvotes": 6127
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 120,
+            "totalvotes": 6127
+        },
+        {
+            "county": "Flathead",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 11587,
+            "totalvotes": 38678
+        },
+        {
+            "county": "Flathead",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 26019,
+            "totalvotes": 38678
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1072,
+            "totalvotes": 38678
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 16405,
+            "totalvotes": 39841
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 22392,
+            "totalvotes": 39841
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1044,
+            "totalvotes": 39841
+        },
+        {
+            "county": "Garfield",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 52,
+            "totalvotes": 655
+        },
+        {
+            "county": "Garfield",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 590,
+            "totalvotes": 655
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 13,
+            "totalvotes": 655
+        },
+        {
+            "county": "Glacier",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 2641,
+            "totalvotes": 4562
+        },
+        {
+            "county": "Glacier",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1828,
+            "totalvotes": 4562
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 93,
+            "totalvotes": 4562
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 119,
+            "totalvotes": 522
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 396,
+            "totalvotes": 522
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 7,
+            "totalvotes": 522
+        },
+        {
+            "county": "Granite",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 404,
+            "totalvotes": 1605
+        },
+        {
+            "county": "Granite",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1144,
+            "totalvotes": 1605
+        },
+        {
+            "county": "Granite",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 57,
+            "totalvotes": 1605
+        },
+        {
+            "county": "Hill",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 2997,
+            "totalvotes": 6657
+        },
+        {
+            "county": "Hill",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3505,
+            "totalvotes": 6657
+        },
+        {
+            "county": "Hill",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 155,
+            "totalvotes": 6657
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1881,
+            "totalvotes": 5868
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3844,
+            "totalvotes": 5868
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 143,
+            "totalvotes": 5868
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 322,
+            "totalvotes": 1286
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 944,
+            "totalvotes": 1286
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 20,
+            "totalvotes": 1286
+        },
+        {
+            "county": "Lake",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 4960,
+            "totalvotes": 12576
+        },
+        {
+            "county": "Lake",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 7245,
+            "totalvotes": 12576
+        },
+        {
+            "county": "Lake",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 371,
+            "totalvotes": 12576
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 12717,
+            "totalvotes": 29842
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 16494,
+            "totalvotes": 29842
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 631,
+            "totalvotes": 29842
+        },
+        {
+            "county": "Liberty",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 281,
+            "totalvotes": 1033
+        },
+        {
+            "county": "Liberty",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 734,
+            "totalvotes": 1033
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 18,
+            "totalvotes": 1033
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 2320,
+            "totalvotes": 8447
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 5889,
+            "totalvotes": 8447
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 238,
+            "totalvotes": 8447
+        },
+        {
+            "county": "McCone",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 320,
+            "totalvotes": 1137
+        },
+        {
+            "county": "McCone",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 791,
+            "totalvotes": 1137
+        },
+        {
+            "county": "McCone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 26,
+            "totalvotes": 1137
+        },
+        {
+            "county": "Madison",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 983,
+            "totalvotes": 3933
+        },
+        {
+            "county": "Madison",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2868,
+            "totalvotes": 3933
+        },
+        {
+            "county": "Madison",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 82,
+            "totalvotes": 3933
+        },
+        {
+            "county": "Meagher",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 247,
+            "totalvotes": 973
+        },
+        {
+            "county": "Meagher",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 698,
+            "totalvotes": 973
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 28,
+            "totalvotes": 973
+        },
+        {
+            "county": "Mineral",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 542,
+            "totalvotes": 1837
+        },
+        {
+            "county": "Mineral",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1242,
+            "totalvotes": 1837
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 53,
+            "totalvotes": 1837
+        },
+        {
+            "county": "Missoula",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 26983,
+            "totalvotes": 52452
+        },
+        {
+            "county": "Missoula",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 23989,
+            "totalvotes": 52452
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1480,
+            "totalvotes": 52452
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 538,
+            "totalvotes": 2247
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1663,
+            "totalvotes": 2247
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 46,
+            "totalvotes": 2247
+        },
+        {
+            "county": "Park",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 3199,
+            "totalvotes": 8217
+        },
+        {
+            "county": "Park",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 4771,
+            "totalvotes": 8217
+        },
+        {
+            "county": "Park",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 247,
+            "totalvotes": 8217
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 55,
+            "totalvotes": 292
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 228,
+            "totalvotes": 292
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 9,
+            "totalvotes": 292
+        },
+        {
+            "county": "Phillips",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 456,
+            "totalvotes": 2170
+        },
+        {
+            "county": "Phillips",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1677,
+            "totalvotes": 2170
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 37,
+            "totalvotes": 2170
+        },
+        {
+            "county": "Pondera",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 956,
+            "totalvotes": 2860
+        },
+        {
+            "county": "Pondera",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1853,
+            "totalvotes": 2860
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 51,
+            "totalvotes": 2860
+        },
+        {
+            "county": "Powder River",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 154,
+            "totalvotes": 1029
+        },
+        {
+            "county": "Powder River",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 856,
+            "totalvotes": 1029
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 19,
+            "totalvotes": 1029
+        },
+        {
+            "county": "Powell",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 761,
+            "totalvotes": 2830
+        },
+        {
+            "county": "Powell",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1993,
+            "totalvotes": 2830
+        },
+        {
+            "county": "Powell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 76,
+            "totalvotes": 2830
+        },
+        {
+            "county": "Prairie",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 181,
+            "totalvotes": 736
+        },
+        {
+            "county": "Prairie",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 546,
+            "totalvotes": 736
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 9,
+            "totalvotes": 736
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 6144,
+            "totalvotes": 19866
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 13279,
+            "totalvotes": 19866
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 443,
+            "totalvotes": 19866
+        },
+        {
+            "county": "Richland",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1120,
+            "totalvotes": 4308
+        },
+        {
+            "county": "Richland",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3110,
+            "totalvotes": 4308
+        },
+        {
+            "county": "Richland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 78,
+            "totalvotes": 4308
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 2195,
+            "totalvotes": 4028
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1762,
+            "totalvotes": 4028
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 71,
+            "totalvotes": 4028
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1520,
+            "totalvotes": 3585
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1982,
+            "totalvotes": 3585
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 83,
+            "totalvotes": 3585
+        },
+        {
+            "county": "Sanders",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1502,
+            "totalvotes": 5153
+        },
+        {
+            "county": "Sanders",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3461,
+            "totalvotes": 5153
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 190,
+            "totalvotes": 5153
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 846,
+            "totalvotes": 2038
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1159,
+            "totalvotes": 2038
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 33,
+            "totalvotes": 2038
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 9307,
+            "totalvotes": 16084
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 6381,
+            "totalvotes": 16084
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 396,
+            "totalvotes": 16084
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1025,
+            "totalvotes": 4213
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 3090,
+            "totalvotes": 4213
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 98,
+            "totalvotes": 4213
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 445,
+            "totalvotes": 1983
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1509,
+            "totalvotes": 1983
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 29,
+            "totalvotes": 1983
+        },
+        {
+            "county": "Teton",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1047,
+            "totalvotes": 3359
+        },
+        {
+            "county": "Teton",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2232,
+            "totalvotes": 3359
+        },
+        {
+            "county": "Teton",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 80,
+            "totalvotes": 3359
+        },
+        {
+            "county": "Toole",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 690,
+            "totalvotes": 2311
+        },
+        {
+            "county": "Toole",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 1583,
+            "totalvotes": 2311
+        },
+        {
+            "county": "Toole",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 38,
+            "totalvotes": 2311
+        },
+        {
+            "county": "Treasure",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 121,
+            "totalvotes": 482
+        },
+        {
+            "county": "Treasure",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 348,
+            "totalvotes": 482
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 13,
+            "totalvotes": 482
+        },
+        {
+            "county": "Valley",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 1431,
+            "totalvotes": 4018
+        },
+        {
+            "county": "Valley",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 2476,
+            "totalvotes": 4018
+        },
+        {
+            "county": "Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 111,
+            "totalvotes": 4018
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 250,
+            "totalvotes": 979
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 706,
+            "totalvotes": 979
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 23,
+            "totalvotes": 979
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 144,
+            "totalvotes": 560
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 407,
+            "totalvotes": 560
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 9,
+            "totalvotes": 560
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "John Kerry",
+            "party": "democrat",
+            "candidatevotes": 24120,
+            "totalvotes": 66286
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "George W. Bush",
+            "party": "republican",
+            "candidatevotes": 40903,
+            "totalvotes": 66286
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1263,
+            "totalvotes": 66286
+        }
+    ],
+    [
+        {
+            "county": "Beaverhead",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1617,
+            "totalvotes": 4763
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 3008,
+            "totalvotes": 4763
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 138,
+            "totalvotes": 4763
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3516,
+            "totalvotes": 5219
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1628,
+            "totalvotes": 5219
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 75,
+            "totalvotes": 5219
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1702,
+            "totalvotes": 3014
+        },
+        {
+            "county": "Blaine",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1139,
+            "totalvotes": 3014
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 173,
+            "totalvotes": 3014
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 854,
+            "totalvotes": 2775
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1853,
+            "totalvotes": 2775
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 68,
+            "totalvotes": 2775
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2443,
+            "totalvotes": 5750
+        },
+        {
+            "county": "Carbon",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 3108,
+            "totalvotes": 5750
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 199,
+            "totalvotes": 5750
+        },
+        {
+            "county": "Carter",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 111,
+            "totalvotes": 866
+        },
+        {
+            "county": "Carter",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 573,
+            "totalvotes": 866
+        },
+        {
+            "county": "Carter",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 182,
+            "totalvotes": 866
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 17664,
+            "totalvotes": 35396
+        },
+        {
+            "county": "Cascade",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 16857,
+            "totalvotes": 35396
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 875,
+            "totalvotes": 35396
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1122,
+            "totalvotes": 2866
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1634,
+            "totalvotes": 2866
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 110,
+            "totalvotes": 2866
+        },
+        {
+            "county": "Custer",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2267,
+            "totalvotes": 5482
+        },
+        {
+            "county": "Custer",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 3047,
+            "totalvotes": 5482
+        },
+        {
+            "county": "Custer",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 168,
+            "totalvotes": 5482
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 343,
+            "totalvotes": 1073
+        },
+        {
+            "county": "Daniels",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 694,
+            "totalvotes": 1073
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 36,
+            "totalvotes": 1073
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1593,
+            "totalvotes": 4450
+        },
+        {
+            "county": "Dawson",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 2639,
+            "totalvotes": 4450
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 218,
+            "totalvotes": 4450
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3402,
+            "totalvotes": 5074
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1502,
+            "totalvotes": 5074
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 170,
+            "totalvotes": 5074
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 318,
+            "totalvotes": 1539
+        },
+        {
+            "county": "Fallon",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1064,
+            "totalvotes": 1539
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 157,
+            "totalvotes": 1539
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1933,
+            "totalvotes": 6232
+        },
+        {
+            "county": "Fergus",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 4108,
+            "totalvotes": 6232
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 191,
+            "totalvotes": 6232
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 16138,
+            "totalvotes": 43744
+        },
+        {
+            "county": "Flathead",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 25559,
+            "totalvotes": 43744
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 2047,
+            "totalvotes": 43744
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 24205,
+            "totalvotes": 48169
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 22578,
+            "totalvotes": 48169
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1386,
+            "totalvotes": 48169
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 110,
+            "totalvotes": 727
+        },
+        {
+            "county": "Garfield",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 598,
+            "totalvotes": 727
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 19,
+            "totalvotes": 727
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3423,
+            "totalvotes": 4971
+        },
+        {
+            "county": "Glacier",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1451,
+            "totalvotes": 4971
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 97,
+            "totalvotes": 4971
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 124,
+            "totalvotes": 492
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 343,
+            "totalvotes": 492
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 25,
+            "totalvotes": 492
+        },
+        {
+            "county": "Granite",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 601,
+            "totalvotes": 1718
+        },
+        {
+            "county": "Granite",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1013,
+            "totalvotes": 1718
+        },
+        {
+            "county": "Granite",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 104,
+            "totalvotes": 1718
+        },
+        {
+            "county": "Hill",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3596,
+            "totalvotes": 6661
+        },
+        {
+            "county": "Hill",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 2787,
+            "totalvotes": 6661
+        },
+        {
+            "county": "Hill",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 278,
+            "totalvotes": 6661
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2582,
+            "totalvotes": 6341
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 3538,
+            "totalvotes": 6341
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 221,
+            "totalvotes": 6341
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 397,
+            "totalvotes": 1236
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 801,
+            "totalvotes": 1236
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 38,
+            "totalvotes": 1236
+        },
+        {
+            "county": "Lake",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 6766,
+            "totalvotes": 13919
+        },
+        {
+            "county": "Lake",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 6498,
+            "totalvotes": 13919
+        },
+        {
+            "county": "Lake",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 655,
+            "totalvotes": 13919
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 17114,
+            "totalvotes": 33433
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 14966,
+            "totalvotes": 33433
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1353,
+            "totalvotes": 33433
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 367,
+            "totalvotes": 1001
+        },
+        {
+            "county": "Liberty",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 594,
+            "totalvotes": 1001
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 40,
+            "totalvotes": 1001
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3025,
+            "totalvotes": 9227
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 5704,
+            "totalvotes": 9227
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 498,
+            "totalvotes": 9227
+        },
+        {
+            "county": "McCone",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 321,
+            "totalvotes": 1106
+        },
+        {
+            "county": "McCone",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 726,
+            "totalvotes": 1106
+        },
+        {
+            "county": "McCone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 59,
+            "totalvotes": 1106
+        },
+        {
+            "county": "Madison",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1607,
+            "totalvotes": 4568
+        },
+        {
+            "county": "Madison",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 2822,
+            "totalvotes": 4568
+        },
+        {
+            "county": "Madison",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 139,
+            "totalvotes": 4568
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 298,
+            "totalvotes": 966
+        },
+        {
+            "county": "Meagher",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 624,
+            "totalvotes": 966
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 44,
+            "totalvotes": 966
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 845,
+            "totalvotes": 2021
+        },
+        {
+            "county": "Mineral",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1053,
+            "totalvotes": 2021
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 123,
+            "totalvotes": 2021
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 36531,
+            "totalvotes": 59104
+        },
+        {
+            "county": "Missoula",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 20743,
+            "totalvotes": 59104
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1830,
+            "totalvotes": 59104
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 636,
+            "totalvotes": 2306
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1581,
+            "totalvotes": 2306
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 89,
+            "totalvotes": 2306
+        },
+        {
+            "county": "Park",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 4173,
+            "totalvotes": 9815
+        },
+        {
+            "county": "Park",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 4376,
+            "totalvotes": 9815
+        },
+        {
+            "county": "Park",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1266,
+            "totalvotes": 9815
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 68,
+            "totalvotes": 300
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 227,
+            "totalvotes": 300
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 5,
+            "totalvotes": 300
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 638,
+            "totalvotes": 2224
+        },
+        {
+            "county": "Phillips",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1423,
+            "totalvotes": 2224
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 163,
+            "totalvotes": 2224
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1223,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Pondera",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1588,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 74,
+            "totalvotes": 2885
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 208,
+            "totalvotes": 1404
+        },
+        {
+            "county": "Powder River",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 802,
+            "totalvotes": 1404
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 394,
+            "totalvotes": 1404
+        },
+        {
+            "county": "Powell",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1021,
+            "totalvotes": 2940
+        },
+        {
+            "county": "Powell",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1683,
+            "totalvotes": 2940
+        },
+        {
+            "county": "Powell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 236,
+            "totalvotes": 2940
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 211,
+            "totalvotes": 830
+        },
+        {
+            "county": "Prairie",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 503,
+            "totalvotes": 830
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 116,
+            "totalvotes": 830
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 8400,
+            "totalvotes": 22101
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 13002,
+            "totalvotes": 22101
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 699,
+            "totalvotes": 22101
+        },
+        {
+            "county": "Richland",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1203,
+            "totalvotes": 4516
+        },
+        {
+            "county": "Richland",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 3184,
+            "totalvotes": 4516
+        },
+        {
+            "county": "Richland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 129,
+            "totalvotes": 4516
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2564,
+            "totalvotes": 4947
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1473,
+            "totalvotes": 4947
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 910,
+            "totalvotes": 4947
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1919,
+            "totalvotes": 3810
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1768,
+            "totalvotes": 3810
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 123,
+            "totalvotes": 3810
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1970,
+            "totalvotes": 5868
+        },
+        {
+            "county": "Sanders",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 3563,
+            "totalvotes": 5868
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 335,
+            "totalvotes": 5868
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 953,
+            "totalvotes": 2006
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 987,
+            "totalvotes": 2006
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 66,
+            "totalvotes": 2006
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 11676,
+            "totalvotes": 16969
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 4818,
+            "totalvotes": 16969
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 475,
+            "totalvotes": 16969
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1512,
+            "totalvotes": 4667
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 2991,
+            "totalvotes": 4667
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 164,
+            "totalvotes": 4667
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 541,
+            "totalvotes": 2299
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1494,
+            "totalvotes": 2299
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 264,
+            "totalvotes": 2299
+        },
+        {
+            "county": "Teton",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1294,
+            "totalvotes": 3272
+        },
+        {
+            "county": "Teton",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1874,
+            "totalvotes": 3272
+        },
+        {
+            "county": "Teton",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 104,
+            "totalvotes": 3272
+        },
+        {
+            "county": "Toole",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 737,
+            "totalvotes": 2121
+        },
+        {
+            "county": "Toole",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 1317,
+            "totalvotes": 2121
+        },
+        {
+            "county": "Toole",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 67,
+            "totalvotes": 2121
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 156,
+            "totalvotes": 486
+        },
+        {
+            "county": "Treasure",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 314,
+            "totalvotes": 486
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 16,
+            "totalvotes": 486
+        },
+        {
+            "county": "Valley",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1645,
+            "totalvotes": 4426
+        },
+        {
+            "county": "Valley",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 2121,
+            "totalvotes": 4426
+        },
+        {
+            "county": "Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 660,
+            "totalvotes": 4426
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 289,
+            "totalvotes": 983
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 657,
+            "totalvotes": 983
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 37,
+            "totalvotes": 983
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 146,
+            "totalvotes": 563
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 379,
+            "totalvotes": 563
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 38,
+            "totalvotes": 563
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 32038,
+            "totalvotes": 70431
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "John McCain",
+            "party": "republican",
+            "candidatevotes": 36483,
+            "totalvotes": 70431
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1910,
+            "totalvotes": 70431
+        }
+    ],
+    [
+        {
+            "county": "Beaverhead",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1371,
+            "totalvotes": 4812
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3289,
+            "totalvotes": 4812
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 152,
+            "totalvotes": 4812
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2882,
+            "totalvotes": 4626
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1667,
+            "totalvotes": 4626
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 77,
+            "totalvotes": 4626
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1616,
+            "totalvotes": 2859
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1178,
+            "totalvotes": 2859
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 65,
+            "totalvotes": 2859
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 764,
+            "totalvotes": 3011
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 2152,
+            "totalvotes": 3011
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 95,
+            "totalvotes": 3011
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2146,
+            "totalvotes": 5846
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3533,
+            "totalvotes": 5846
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 167,
+            "totalvotes": 5846
+        },
+        {
+            "county": "Carter",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 96,
+            "totalvotes": 794
+        },
+        {
+            "county": "Carter",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 678,
+            "totalvotes": 794
+        },
+        {
+            "county": "Carter",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 20,
+            "totalvotes": 794
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 15232,
+            "totalvotes": 34564
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 18345,
+            "totalvotes": 34564
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 987,
+            "totalvotes": 34564
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 978,
+            "totalvotes": 2821
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1758,
+            "totalvotes": 2821
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 85,
+            "totalvotes": 2821
+        },
+        {
+            "county": "Custer",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1833,
+            "totalvotes": 5365
+        },
+        {
+            "county": "Custer",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3373,
+            "totalvotes": 5365
+        },
+        {
+            "county": "Custer",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 159,
+            "totalvotes": 5365
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 237,
+            "totalvotes": 1007
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 740,
+            "totalvotes": 1007
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 30,
+            "totalvotes": 1007
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1219,
+            "totalvotes": 4423
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3029,
+            "totalvotes": 4423
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 175,
+            "totalvotes": 4423
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2860,
+            "totalvotes": 4460
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1448,
+            "totalvotes": 4460
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 152,
+            "totalvotes": 4460
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 237,
+            "totalvotes": 1405
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1128,
+            "totalvotes": 1405
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 40,
+            "totalvotes": 1405
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1640,
+            "totalvotes": 6071
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 4257,
+            "totalvotes": 6071
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 174,
+            "totalvotes": 6071
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 13892,
+            "totalvotes": 43476
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 28309,
+            "totalvotes": 43476
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1275,
+            "totalvotes": 43476
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 21961,
+            "totalvotes": 47882
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 24358,
+            "totalvotes": 47882
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1563,
+            "totalvotes": 47882
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 66,
+            "totalvotes": 700
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 622,
+            "totalvotes": 700
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 12,
+            "totalvotes": 700
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2924,
+            "totalvotes": 4452
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1415,
+            "totalvotes": 4452
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 113,
+            "totalvotes": 4452
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 110,
+            "totalvotes": 479
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 351,
+            "totalvotes": 479
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 18,
+            "totalvotes": 479
+        },
+        {
+            "county": "Granite",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 533,
+            "totalvotes": 1705
+        },
+        {
+            "county": "Granite",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1107,
+            "totalvotes": 1705
+        },
+        {
+            "county": "Granite",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 65,
+            "totalvotes": 1705
+        },
+        {
+            "county": "Hill",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3403,
+            "totalvotes": 6820
+        },
+        {
+            "county": "Hill",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3164,
+            "totalvotes": 6820
+        },
+        {
+            "county": "Hill",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 253,
+            "totalvotes": 6820
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2272,
+            "totalvotes": 6520
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 4055,
+            "totalvotes": 6520
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 193,
+            "totalvotes": 6520
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 337,
+            "totalvotes": 1215
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 854,
+            "totalvotes": 1215
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 24,
+            "totalvotes": 1215
+        },
+        {
+            "county": "Lake",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 5805,
+            "totalvotes": 13304
+        },
+        {
+            "county": "Lake",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 7135,
+            "totalvotes": 13304
+        },
+        {
+            "county": "Lake",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 364,
+            "totalvotes": 13304
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 15620,
+            "totalvotes": 33318
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 16803,
+            "totalvotes": 33318
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 895,
+            "totalvotes": 33318
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 257,
+            "totalvotes": 988
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 702,
+            "totalvotes": 988
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 29,
+            "totalvotes": 988
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2552,
+            "totalvotes": 8889
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 6057,
+            "totalvotes": 8889
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 280,
+            "totalvotes": 8889
+        },
+        {
+            "county": "McCone",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 223,
+            "totalvotes": 993
+        },
+        {
+            "county": "McCone",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 745,
+            "totalvotes": 993
+        },
+        {
+            "county": "McCone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 25,
+            "totalvotes": 993
+        },
+        {
+            "county": "Madison",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1289,
+            "totalvotes": 4530
+        },
+        {
+            "county": "Madison",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3130,
+            "totalvotes": 4530
+        },
+        {
+            "county": "Madison",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 111,
+            "totalvotes": 4530
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 269,
+            "totalvotes": 972
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 670,
+            "totalvotes": 972
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 33,
+            "totalvotes": 972
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 700,
+            "totalvotes": 2017
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1216,
+            "totalvotes": 2017
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 101,
+            "totalvotes": 2017
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 32824,
+            "totalvotes": 57192
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 22652,
+            "totalvotes": 57192
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1716,
+            "totalvotes": 57192
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 492,
+            "totalvotes": 2407
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1833,
+            "totalvotes": 2407
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 82,
+            "totalvotes": 2407
+        },
+        {
+            "county": "Park",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 3783,
+            "totalvotes": 8768
+        },
+        {
+            "county": "Park",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 4709,
+            "totalvotes": 8768
+        },
+        {
+            "county": "Park",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 276,
+            "totalvotes": 8768
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 49,
+            "totalvotes": 298
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 240,
+            "totalvotes": 298
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 9,
+            "totalvotes": 298
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 471,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1688,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 69,
+            "totalvotes": 2228
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 975,
+            "totalvotes": 2719
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1673,
+            "totalvotes": 2719
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 71,
+            "totalvotes": 2719
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 170,
+            "totalvotes": 1027
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 833,
+            "totalvotes": 1027
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 24,
+            "totalvotes": 1027
+        },
+        {
+            "county": "Powell",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 888,
+            "totalvotes": 2776
+        },
+        {
+            "county": "Powell",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1806,
+            "totalvotes": 2776
+        },
+        {
+            "county": "Powell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 82,
+            "totalvotes": 2776
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 167,
+            "totalvotes": 703
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 520,
+            "totalvotes": 703
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 16,
+            "totalvotes": 703
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 7285,
+            "totalvotes": 22206
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 14307,
+            "totalvotes": 22206
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 614,
+            "totalvotes": 22206
+        },
+        {
+            "county": "Richland",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1002,
+            "totalvotes": 4645
+        },
+        {
+            "county": "Richland",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3510,
+            "totalvotes": 4645
+        },
+        {
+            "county": "Richland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 133,
+            "totalvotes": 4645
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 2086,
+            "totalvotes": 3672
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1514,
+            "totalvotes": 3672
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 72,
+            "totalvotes": 3672
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1422,
+            "totalvotes": 3523
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 2004,
+            "totalvotes": 3523
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 97,
+            "totalvotes": 3523
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1720,
+            "totalvotes": 5901
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3980,
+            "totalvotes": 5901
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 201,
+            "totalvotes": 5901
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 665,
+            "totalvotes": 1928
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1207,
+            "totalvotes": 1928
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 56,
+            "totalvotes": 1928
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 10857,
+            "totalvotes": 16756
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 5430,
+            "totalvotes": 16756
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 469,
+            "totalvotes": 16756
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1248,
+            "totalvotes": 4702
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 3337,
+            "totalvotes": 4702
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 117,
+            "totalvotes": 4702
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 475,
+            "totalvotes": 2117
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1594,
+            "totalvotes": 2117
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 48,
+            "totalvotes": 2117
+        },
+        {
+            "county": "Teton",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1082,
+            "totalvotes": 3281
+        },
+        {
+            "county": "Teton",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 2113,
+            "totalvotes": 3281
+        },
+        {
+            "county": "Teton",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 86,
+            "totalvotes": 3281
+        },
+        {
+            "county": "Toole",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 582,
+            "totalvotes": 2102
+        },
+        {
+            "county": "Toole",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 1440,
+            "totalvotes": 2102
+        },
+        {
+            "county": "Toole",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 80,
+            "totalvotes": 2102
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 114,
+            "totalvotes": 455
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 319,
+            "totalvotes": 455
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 22,
+            "totalvotes": 455
+        },
+        {
+            "county": "Valley",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 1385,
+            "totalvotes": 3859
+        },
+        {
+            "county": "Valley",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 2337,
+            "totalvotes": 3859
+        },
+        {
+            "county": "Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 137,
+            "totalvotes": 3859
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 272,
+            "totalvotes": 992
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 693,
+            "totalvotes": 992
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 27,
+            "totalvotes": 992
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 98,
+            "totalvotes": 544
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 421,
+            "totalvotes": 544
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 25,
+            "totalvotes": 544
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Barack Obama",
+            "party": "democrat",
+            "candidatevotes": 26403,
+            "totalvotes": 68807
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Mitt Romney",
+            "party": "republican",
+            "candidatevotes": 40500,
+            "totalvotes": 68807
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1904,
+            "totalvotes": 68807
+        }
+    ],
+    [
+        {
+            "county": "Beaverhead",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1143,
+            "totalvotes": 4849
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3353,
+            "totalvotes": 4849
+        },
+        {
+            "county": "Beaverhead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 353,
+            "totalvotes": 4849
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 2094,
+            "totalvotes": 4237
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1853,
+            "totalvotes": 4237
+        },
+        {
+            "county": "Big Horn",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 290,
+            "totalvotes": 4237
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1202,
+            "totalvotes": 2684
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1268,
+            "totalvotes": 2684
+        },
+        {
+            "county": "Blaine",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 214,
+            "totalvotes": 2684
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 573,
+            "totalvotes": 3133
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 2348,
+            "totalvotes": 3133
+        },
+        {
+            "county": "Broadwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 212,
+            "totalvotes": 3133
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1828,
+            "totalvotes": 5991
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3748,
+            "totalvotes": 5991
+        },
+        {
+            "county": "Carbon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 415,
+            "totalvotes": 5991
+        },
+        {
+            "county": "Carter",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 70,
+            "totalvotes": 786
+        },
+        {
+            "county": "Carter",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 678,
+            "totalvotes": 786
+        },
+        {
+            "county": "Carter",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 38,
+            "totalvotes": 786
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 12175,
+            "totalvotes": 34571
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 19632,
+            "totalvotes": 34571
+        },
+        {
+            "county": "Cascade",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 2764,
+            "totalvotes": 34571
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 732,
+            "totalvotes": 2603
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1679,
+            "totalvotes": 2603
+        },
+        {
+            "county": "Chouteau",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 192,
+            "totalvotes": 2603
+        },
+        {
+            "county": "Custer",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1176,
+            "totalvotes": 5185
+        },
+        {
+            "county": "Custer",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3657,
+            "totalvotes": 5185
+        },
+        {
+            "county": "Custer",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 352,
+            "totalvotes": 5185
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 168,
+            "totalvotes": 962
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 730,
+            "totalvotes": 962
+        },
+        {
+            "county": "Daniels",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 64,
+            "totalvotes": 962
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 787,
+            "totalvotes": 4374
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3320,
+            "totalvotes": 4374
+        },
+        {
+            "county": "Dawson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 267,
+            "totalvotes": 4374
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 2058,
+            "totalvotes": 4206
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1763,
+            "totalvotes": 4206
+        },
+        {
+            "county": "Deer Lodge",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 385,
+            "totalvotes": 4206
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 154,
+            "totalvotes": 1484
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1279,
+            "totalvotes": 1484
+        },
+        {
+            "county": "Fallon",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 51,
+            "totalvotes": 1484
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1202,
+            "totalvotes": 5840
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 4269,
+            "totalvotes": 5840
+        },
+        {
+            "county": "Fergus",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 369,
+            "totalvotes": 5840
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 13293,
+            "totalvotes": 46571
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 30240,
+            "totalvotes": 46571
+        },
+        {
+            "county": "Flathead",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 3038,
+            "totalvotes": 46571
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 24246,
+            "totalvotes": 53819
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 23802,
+            "totalvotes": 53819
+        },
+        {
+            "county": "Gallatin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 5771,
+            "totalvotes": 53819
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 34,
+            "totalvotes": 718
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 653,
+            "totalvotes": 718
+        },
+        {
+            "county": "Garfield",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 31,
+            "totalvotes": 718
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 3121,
+            "totalvotes": 5075
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1620,
+            "totalvotes": 5075
+        },
+        {
+            "county": "Glacier",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 334,
+            "totalvotes": 5075
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 71,
+            "totalvotes": 474
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 365,
+            "totalvotes": 474
+        },
+        {
+            "county": "Golden Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 38,
+            "totalvotes": 474
+        },
+        {
+            "county": "Granite",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 472,
+            "totalvotes": 1777
+        },
+        {
+            "county": "Granite",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1192,
+            "totalvotes": 1777
+        },
+        {
+            "county": "Granite",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 113,
+            "totalvotes": 1777
+        },
+        {
+            "county": "Hill",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 2371,
+            "totalvotes": 6445
+        },
+        {
+            "county": "Hill",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3478,
+            "totalvotes": 6445
+        },
+        {
+            "county": "Hill",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 596,
+            "totalvotes": 6445
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1998,
+            "totalvotes": 6714
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 4177,
+            "totalvotes": 6714
+        },
+        {
+            "county": "Jefferson",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 539,
+            "totalvotes": 6714
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 235,
+            "totalvotes": 1208
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 872,
+            "totalvotes": 1208
+        },
+        {
+            "county": "Judith Basin",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 101,
+            "totalvotes": 1208
+        },
+        {
+            "county": "Lake",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 4776,
+            "totalvotes": 13181
+        },
+        {
+            "county": "Lake",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 7530,
+            "totalvotes": 13181
+        },
+        {
+            "county": "Lake",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 875,
+            "totalvotes": 13181
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 14478,
+            "totalvotes": 34478
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 16895,
+            "totalvotes": 34478
+        },
+        {
+            "county": "Lewis and Clark",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 3105,
+            "totalvotes": 34478
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 206,
+            "totalvotes": 961
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 698,
+            "totalvotes": 961
+        },
+        {
+            "county": "Liberty",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 57,
+            "totalvotes": 961
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 2041,
+            "totalvotes": 9330
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 6729,
+            "totalvotes": 9330
+        },
+        {
+            "county": "Lincoln",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 560,
+            "totalvotes": 9330
+        },
+        {
+            "county": "McCone",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 154,
+            "totalvotes": 1060
+        },
+        {
+            "county": "McCone",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 862,
+            "totalvotes": 1060
+        },
+        {
+            "county": "McCone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 44,
+            "totalvotes": 1060
+        },
+        {
+            "county": "Madison",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1180,
+            "totalvotes": 4778
+        },
+        {
+            "county": "Madison",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3297,
+            "totalvotes": 4778
+        },
+        {
+            "county": "Madison",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 301,
+            "totalvotes": 4778
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 193,
+            "totalvotes": 977
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 729,
+            "totalvotes": 977
+        },
+        {
+            "county": "Meagher",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 55,
+            "totalvotes": 977
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 519,
+            "totalvotes": 2012
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1330,
+            "totalvotes": 2012
+        },
+        {
+            "county": "Mineral",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 163,
+            "totalvotes": 2012
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 31543,
+            "totalvotes": 59203
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 22250,
+            "totalvotes": 59203
+        },
+        {
+            "county": "Missoula",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 5410,
+            "totalvotes": 59203
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 332,
+            "totalvotes": 2441
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1967,
+            "totalvotes": 2441
+        },
+        {
+            "county": "Musselshell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 142,
+            "totalvotes": 2441
+        },
+        {
+            "county": "Park",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 3595,
+            "totalvotes": 9359
+        },
+        {
+            "county": "Park",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 4980,
+            "totalvotes": 9359
+        },
+        {
+            "county": "Park",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 784,
+            "totalvotes": 9359
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 30,
+            "totalvotes": 322
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 278,
+            "totalvotes": 322
+        },
+        {
+            "county": "Petroleum",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 14,
+            "totalvotes": 322
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 318,
+            "totalvotes": 2171
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1723,
+            "totalvotes": 2171
+        },
+        {
+            "county": "Phillips",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 130,
+            "totalvotes": 2171
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 738,
+            "totalvotes": 2723
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1799,
+            "totalvotes": 2723
+        },
+        {
+            "county": "Pondera",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 186,
+            "totalvotes": 2723
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 127,
+            "totalvotes": 1053
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 884,
+            "totalvotes": 1053
+        },
+        {
+            "county": "Powder River",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 42,
+            "totalvotes": 1053
+        },
+        {
+            "county": "Powell",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 551,
+            "totalvotes": 2794
+        },
+        {
+            "county": "Powell",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 2029,
+            "totalvotes": 2794
+        },
+        {
+            "county": "Powell",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 214,
+            "totalvotes": 2794
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 100,
+            "totalvotes": 689
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 556,
+            "totalvotes": 689
+        },
+        {
+            "county": "Prairie",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 33,
+            "totalvotes": 689
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 6223,
+            "totalvotes": 22556
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 14810,
+            "totalvotes": 22556
+        },
+        {
+            "county": "Ravalli",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1523,
+            "totalvotes": 22556
+        },
+        {
+            "county": "Richland",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 671,
+            "totalvotes": 4871
+        },
+        {
+            "county": "Richland",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3908,
+            "totalvotes": 4871
+        },
+        {
+            "county": "Richland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 292,
+            "totalvotes": 4871
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1560,
+            "totalvotes": 3652
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1797,
+            "totalvotes": 3652
+        },
+        {
+            "county": "Roosevelt",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 295,
+            "totalvotes": 3652
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 987,
+            "totalvotes": 3453
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 2253,
+            "totalvotes": 3453
+        },
+        {
+            "county": "Rosebud",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 213,
+            "totalvotes": 3453
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 1218,
+            "totalvotes": 5953
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 4286,
+            "totalvotes": 5953
+        },
+        {
+            "county": "Sanders",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 449,
+            "totalvotes": 5953
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 477,
+            "totalvotes": 1835
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1241,
+            "totalvotes": 1835
+        },
+        {
+            "county": "Sheridan",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 117,
+            "totalvotes": 1835
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 8619,
+            "totalvotes": 16452
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 6376,
+            "totalvotes": 16452
+        },
+        {
+            "county": "Silver Bow",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 1457,
+            "totalvotes": 16452
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 908,
+            "totalvotes": 4873
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 3661,
+            "totalvotes": 4873
+        },
+        {
+            "county": "Stillwater",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 304,
+            "totalvotes": 4873
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 402,
+            "totalvotes": 2107
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1595,
+            "totalvotes": 2107
+        },
+        {
+            "county": "Sweet Grass",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 110,
+            "totalvotes": 2107
+        },
+        {
+            "county": "Teton",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 808,
+            "totalvotes": 3188
+        },
+        {
+            "county": "Teton",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 2170,
+            "totalvotes": 3188
+        },
+        {
+            "county": "Teton",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 210,
+            "totalvotes": 3188
+        },
+        {
+            "county": "Toole",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 402,
+            "totalvotes": 2037
+        },
+        {
+            "county": "Toole",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 1497,
+            "totalvotes": 2037
+        },
+        {
+            "county": "Toole",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 138,
+            "totalvotes": 2037
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 59,
+            "totalvotes": 443
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 351,
+            "totalvotes": 443
+        },
+        {
+            "county": "Treasure",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 33,
+            "totalvotes": 443
+        },
+        {
+            "county": "Valley",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 886,
+            "totalvotes": 3894
+        },
+        {
+            "county": "Valley",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 2698,
+            "totalvotes": 3894
+        },
+        {
+            "county": "Valley",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 310,
+            "totalvotes": 3894
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 179,
+            "totalvotes": 946
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 702,
+            "totalvotes": 946
+        },
+        {
+            "county": "Wheatland",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 65,
+            "totalvotes": 946
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 55,
+            "totalvotes": 541
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 463,
+            "totalvotes": 541
+        },
+        {
+            "county": "Wibaux",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 23,
+            "totalvotes": 541
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Hillary Clinton",
+            "party": "democrat",
+            "candidatevotes": 22171,
+            "totalvotes": 69108
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Donald Trump",
+            "party": "republican",
+            "candidatevotes": 40920,
+            "totalvotes": 69108
+        },
+        {
+            "county": "Yellowstone",
+            "candidate": "Other",
+            "party": "NA",
+            "candidatevotes": 6017,
+            "totalvotes": 69108
+        }
+    ]
+]
