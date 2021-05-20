@@ -1,0 +1,56 @@
+#montana{
+    height:75vh;
+    width:100vw;
+}
+
+body{
+    background-color: #000;
+    color: white;
+    font-family:'Open Sans',sans-serif;
+}
+path{
+    stroke:#000;
+    stroke-width: 0.25;
+    transition: all 0.5s ease-out 100ms
+
+}
+path:hover{
+    transform: scale(0.995); 
+
+    
+}
+#Lincoln__MT{
+    stroke: #DAA520;
+    stroke-width:1px;
+}
+#Lincoln__MT:hover{
+    stroke:#FFDF00
+}
+#box{
+    position:absolute;
+    pointer-events: none;
+    background-color: rgba(44, 44, 44, 0.8);
+    border-radius: 25px;
+    border: 1px solid white;
+}
+#county, #diff{
+    
+    font-size: 1.25em;    font-weight: bold;
+
+}
+
+#box{
+    padding-left:1em;
+    padding-right:1em;
+}
+#rep{color:#FF5864;margin:0;}
+#dem{color:#587CCC;margin-top:0;margin-bottom: 1;}
+#county{ 
+    margin-top:1;margin-bottom: 0;
+}
+#population{
+    margin: 0;
+}
+#diff{
+    margin-top:1rem;margin-bottom: 0;
+}
