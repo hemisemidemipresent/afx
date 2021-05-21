@@ -57,3 +57,13 @@ path:hover{
 #input{
     width:50vw;
 }
+@media only screen and (max-width: 600px) {
+#gaga{
+    transform:matrix(2,0,0,2,-400,0);
+}
+
+}@media only screen and (min-width: 600px) {
+    #gaga{
+        transform:matrix(4, 0, 0, 4, -750, 0);
+    }
+}
