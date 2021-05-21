@@ -7,31 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>montana</title>
     <link rel="stylesheet" href="montana.css">
+
     <script defer src="montana.js"></script>
+
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&display=swap" rel="stylesheet" />
 
 </head>
 
 <body>
     <h1>Montana</h1>
-    <p>Currently only has presidential election years from 2000-2016 because MIT API doesnt have stuff and I cant be
-        bothered to manually type out everything</p>
-    <p id='year'>year: 2000</p>
+    <p>(Currently only has presidential election data because I havent found a slick way to change from presidential to
+        senate to governer )</p>
+    <p id='year'>year: 1988</p>
     <svg id="montana" xmlns="http://www.w3.org/2000/svg" version="1.0" xmlns:xlink="http://www.w3.org/1999/xlink"
         xmlns:ev="http://www.w3.org/2001/xml-events" style="overflow: hidden; ">
         <g id="gaga" class="svg-pan-zoom_viewport"
             transform="matrix(0.4808178237803129,0,0,0.4808178237803129,41.9999845783678,240.24678393177027)"
             style="transform: matrix(4, 0, 0, 4, -750, 0);">
-
-
-
-
-
-
-
-
-
-
             <path id="Sanders__MT" class="c30089"
                 d="m214.62 44.073 1.6153 1.084 0.89144-0.266 1.7757-0.779 1.2551 2.564 0.87539 4.685 0.83617 1.157 0.16046 0.129 2.7955 1.133 1.5671-0.354 0.75415-0.876 0.16225-1.23 2.1858 0.451 0.26387 0.392-0.5937 2.91 1.9612 0.394 1.3175 0.225 2.619 0.499-0.37797 1.92-0.19968 0.972-0.31379 3.302 2.619 0.515 0.96453 0.185 0.33875 0.152 0.0874 0.128-0.0571 2.307-0.37618 0.555-0.12837-0.07-0.0802 0.02-0.36192 0.57-0.39401 1.1 0.33696 0.628 0.12837 0.144 0.37796 0.17 1.3175 0.256-0.50633 3.953-0.20146 0.98-1.1072 0.195-0.32983-0.121-0.23355-0.161-0.81121-0.82-0.28882-0.795-0.50812-0.515-1.831-1.359-1.125-0.626-0.87539-0.378-1.7365-0.208-0.68997-0.136-1.7597-1.383 0.27991-1.373-0.0642-0.515-0.67571-0.587-3.0844-2.17-0.48316-0.24-1.7187-0.314-0.12836-0.02-0.5313 0.137-2.0877-0.362-0.62757-0.209-0.75594-0.258-0.35301-0.408-0.55447-0.965 0.44215-1.005 0.52238-1.325 0.007-1.287v-0.09l-0.007-0.03-0.025-0.06-0.0232-0.08-3.0933-6.301-0.47425-0.843 1.1161-5.311"
                 cursor="pointer"></path>
@@ -223,7 +215,7 @@
         <p id='rep'></p>
         <p id='dem'></p>
     </div>
-    <input type="range" max='5' min='1' value='1' oninput='updatemap()' id='input'>
+    <input type="range" max='9' min='1' value='1' oninput='updatemap()' id='input'>
 </body>
 
 </html>
