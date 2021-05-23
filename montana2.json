@@ -2,6 +2,1696 @@
     [
         {
             "County": "Beaverhead",
+            "Republican": 1896,
+            "Democratic": 853,
+            "Total": 3106
+        },
+        {
+            "County": "Big Horn",
+            "Republican": 1789,
+            "Democratic": 1319,
+            "Total": 3321
+        },
+        {
+            "County": "Blaine",
+            "Republican": 1291,
+            "Democratic": 1198,
+            "Total": 2655
+        },
+        {
+            "County": "Broadwater",
+            "Republican": 671,
+            "Democratic": 439,
+            "Total": 1236
+        },
+        {
+            "County": "Carbon",
+            "Republican": 1972,
+            "Democratic": 1353,
+            "Total": 3587
+        },
+        {
+            "County": "Carter",
+            "Republican": 624,
+            "Democratic": 269,
+            "Total": 1003
+        },
+        {
+            "County": "Cascade",
+            "Republican": 11588,
+            "Democratic": 13507,
+            "Total": 26803
+        },
+        {
+            "County": "Chouteau",
+            "Republican": 1695,
+            "Democratic": 1216,
+            "Total": 3159
+        },
+        {
+            "County": "Custer",
+            "Republican": 2831,
+            "Democratic": 1760,
+            "Total": 4876
+        },
+        {
+            "County": "Daniels",
+            "Republican": 826,
+            "Democratic": 688,
+            "Total": 1584
+        },
+        {
+            "County": "Dawson",
+            "Republican": 2650,
+            "Democratic": 1695,
+            "Total": 4568
+        },
+        {
+            "County": "Deer Lodge",
+            "Republican": 1554,
+            "Democratic": 4208,
+            "Total": 6074
+        },
+        {
+            "County": "Fallon",
+            "Republican": 990,
+            "Democratic": 477,
+            "Total": 1565
+        },
+        {
+            "County": "Fergus",
+            "Republican": 3367,
+            "Democratic": 2070,
+            "Total": 6057
+        },
+        {
+            "County": "Flathead",
+            "Republican": 7215,
+            "Democratic": 5253,
+            "Total": 14000
+        },
+        {
+            "County": "Gallatin",
+            "Republican": 7433,
+            "Democratic": 3818,
+            "Total": 11978
+        },
+        {
+            "County": "Garfield",
+            "Republican": 542,
+            "Democratic": 190,
+            "Total": 844
+        },
+        {
+            "County": "Glacier",
+            "Republican": 1643,
+            "Democratic": 1723,
+            "Total": 3671
+        },
+        {
+            "County": "Golden Valley",
+            "Republican": 332,
+            "Democratic": 194,
+            "Total": 553
+        },
+        {
+            "County": "Granite",
+            "Republican": 626,
+            "Democratic": 502,
+            "Total": 1263
+        },
+        {
+            "County": "Hill",
+            "Republican": 2970,
+            "Democratic": 3386,
+            "Total": 6669
+        },
+        {
+            "County": "Jefferson",
+            "Republican": 798,
+            "Democratic": 820,
+            "Total": 1771
+        },
+        {
+            "County": "Judith Basin",
+            "Republican": 804,
+            "Democratic": 606,
+            "Total": 1516
+        },
+        {
+            "County": "Lake",
+            "Republican": 3358,
+            "Democratic": 1956,
+            "Total": 5999
+        },
+        {
+            "County": "Lewis and Clark",
+            "Republican": 7979,
+            "Democratic": 5379,
+            "Total": 14115
+        },
+        {
+            "County": "Liberty",
+            "Republican": 670,
+            "Democratic": 390,
+            "Total": 1144
+        },
+        {
+            "County": "Lincoln",
+            "Republican": 2355,
+            "Democratic": 2677,
+            "Total": 5807
+        },
+        {
+            "County": "McCone",
+            "Republican": 733,
+            "Democratic": 589,
+            "Total": 1405
+        },
+        {
+            "County": "Madison",
+            "Republican": 1289,
+            "Democratic": 734,
+            "Total": 2286
+        },
+        {
+            "County": "Meagher",
+            "Republican": 543,
+            "Democratic": 218,
+            "Total": 863
+        },
+        {
+            "County": "Mineral",
+            "Republican": 483,
+            "Democratic": 576,
+            "Total": 1169
+        },
+        {
+            "County": "Missoula",
+            "Republican": 9745,
+            "Democratic": 8398,
+            "Total": 20292
+        },
+        {
+            "County": "Musselshell",
+            "Republican": 953,
+            "Democratic": 795,
+            "Total": 1863
+        },
+        {
+            "County": "Park",
+            "Republican": 3063,
+            "Democratic": 1815,
+            "Total": 5340
+        },
+        {
+            "County": "Petroleum",
+            "Republican": 211,
+            "Democratic": 98,
+            "Total": 335
+        },
+        {
+            "County": "Phillips",
+            "Republican": 1353,
+            "Democratic": 1100,
+            "Total": 2632
+        },
+        {
+            "County": "Pondera",
+            "Republican": 1530,
+            "Democratic": 1149,
+            "Total": 2888
+        },
+        {
+            "County": "Powder River",
+            "Republican": 699,
+            "Democratic": 258,
+            "Total": 1076
+        },
+        {
+            "County": "Powell",
+            "Republican": 1301,
+            "Democratic": 1206,
+            "Total": 2739
+        },
+        {
+            "County": "Prairie",
+            "Republican": 635,
+            "Democratic": 270,
+            "Total": 937
+        },
+        {
+            "County": "Ravalli",
+            "Republican": 3183,
+            "Democratic": 2080,
+            "Total": 5977
+        },
+        {
+            "County": "Richland",
+            "Republican": 2381,
+            "Democratic": 1399,
+            "Total": 4016
+        },
+        {
+            "County": "Roosevelt",
+            "Republican": 1947,
+            "Democratic": 1771,
+            "Total": 3885
+        },
+        {
+            "County": "Rosebud",
+            "Republican": 1190,
+            "Democratic": 711,
+            "Total": 2109
+        },
+        {
+            "County": "Sanders",
+            "Republican": 1459,
+            "Democratic": 1242,
+            "Total": 2996
+        },
+        {
+            "County": "Sheridan",
+            "Republican": 1180,
+            "Democratic": 1275,
+            "Total": 2576
+        },
+        {
+            "County": "Silver Bow",
+            "Republican": 5488,
+            "Democratic": 12626,
+            "Total": 19617
+        },
+        {
+            "County": "Stillwater",
+            "Republican": 1347,
+            "Democratic": 676,
+            "Total": 2201
+        },
+        {
+            "County": "Sweet Grass",
+            "Republican": 1043,
+            "Democratic": 336,
+            "Total": 1490
+        },
+        {
+            "County": "Teton",
+            "Republican": 1697,
+            "Democratic": 1228,
+            "Total": 3109
+        },
+        {
+            "County": "Toole",
+            "Republican": 1407,
+            "Democratic": 1048,
+            "Total": 2708
+        },
+        {
+            "County": "Treasure",
+            "Republican": 298,
+            "Democratic": 188,
+            "Total": 527
+        },
+        {
+            "County": "Valley",
+            "Republican": 2290,
+            "Democratic": 1926,
+            "Total": 4632
+        },
+        {
+            "County": "Wheatland",
+            "Republican": 673,
+            "Democratic": 525,
+            "Total": 1300
+        },
+        {
+            "County": "Wibaux",
+            "Republican": 347,
+            "Democratic": 252,
+            "Total": 655
+        },
+        {
+            "County": "Yellowstone",
+            "Republican": 19898,
+            "Democratic": 11682,
+            "Total": 33857
+        }
+    ],
+    [
+        {
+            "County": "Beaverhead",
+            "Republican": 2460,
+            "Democratic": 775,
+            "Total": 3417
+        },
+        {
+            "County": "Big Horn",
+            "Republican": 2148,
+            "Democratic": 1552,
+            "Total": 3824
+        },
+        {
+            "County": "Blaine",
+            "Republican": 1513,
+            "Democratic": 1151,
+            "Total": 2779
+        },
+        {
+            "County": "Broadwater",
+            "Republican": 916,
+            "Democratic": 411,
+            "Total": 1376
+        },
+        {
+            "County": "Carbon",
+            "Republican": 2378,
+            "Democratic": 1292,
+            "Total": 3841
+        },
+        {
+            "County": "Carter",
+            "Republican": 726,
+            "Democratic": 218,
+            "Total": 983
+        },
+        {
+            "County": "Cascade",
+            "Republican": 16159,
+            "Democratic": 12899,
+            "Total": 30836
+        },
+        {
+            "County": "Chouteau",
+            "Republican": 2027,
+            "Democratic": 1149,
+            "Total": 3399
+        },
+        {
+            "County": "Custer",
+            "Republican": 3486,
+            "Democratic": 1875,
+            "Total": 5506
+        },
+        {
+            "County": "Daniels",
+            "Republican": 973,
+            "Democratic": 570,
+            "Total": 1574
+        },
+        {
+            "County": "Dawson",
+            "Republican": 3207,
+            "Democratic": 1685,
+            "Total": 5014
+        },
+        {
+            "County": "Deer Lodge",
+            "Republican": 2373,
+            "Democratic": 3979,
+            "Total": 6604
+        },
+        {
+            "County": "Fallon",
+            "Republican": 1034,
+            "Democratic": 531,
+            "Total": 1604
+        },
+        {
+            "County": "Fergus",
+            "Republican": 4082,
+            "Democratic": 1652,
+            "Total": 6049
+        },
+        {
+            "County": "Flathead",
+            "Republican": 10417,
+            "Democratic": 5412,
+            "Total": 17156
+        },
+        {
+            "County": "Gallatin",
+            "Republican": 10663,
+            "Democratic": 5096,
+            "Total": 16088
+        },
+        {
+            "County": "Garfield",
+            "Republican": 695,
+            "Democratic": 173,
+            "Total": 893
+        },
+        {
+            "County": "Glacier",
+            "Republican": 2143,
+            "Democratic": 1469,
+            "Total": 3819
+        },
+        {
+            "County": "Golden Valley",
+            "Republican": 359,
+            "Democratic": 170,
+            "Total": 553
+        },
+        {
+            "County": "Granite",
+            "Republican": 804,
+            "Democratic": 422,
+            "Total": 1291
+        },
+        {
+            "County": "Hill",
+            "Republican": 3759,
+            "Democratic": 3061,
+            "Total": 7085
+        },
+        {
+            "County": "Jefferson",
+            "Republican": 1281,
+            "Democratic": 904,
+            "Total": 2285
+        },
+        {
+            "County": "Judith Basin",
+            "Republican": 961,
+            "Democratic": 557,
+            "Total": 1614
+        },
+        {
+            "County": "Lake",
+            "Republican": 4172,
+            "Democratic": 2260,
+            "Total": 6719
+        },
+        {
+            "County": "Lewis and Clark",
+            "Republican": 10719,
+            "Democratic": 6081,
+            "Total": 17316
+        },
+        {
+            "County": "Liberty",
+            "Republican": 808,
+            "Democratic": 365,
+            "Total": 1235
+        },
+        {
+            "County": "Lincoln",
+            "Republican": 3276,
+            "Democratic": 2402,
+            "Total": 6208
+        },
+        {
+            "County": "McCone",
+            "Republican": 854,
+            "Democratic": 562,
+            "Total": 1465
+        },
+        {
+            "County": "Madison",
+            "Republican": 1780,
+            "Democratic": 669,
+            "Total": 2588
+        },
+        {
+            "County": "Meagher",
+            "Republican": 674,
+            "Democratic": 230,
+            "Total": 942
+        },
+        {
+            "County": "Mineral",
+            "Republican": 706,
+            "Democratic": 659,
+            "Total": 1419
+        },
+        {
+            "County": "Missoula",
+            "Republican": 15557,
+            "Democratic": 13784,
+            "Total": 30049
+        },
+        {
+            "County": "Musselshell",
+            "Republican": 1202,
+            "Democratic": 689,
+            "Total": 1967
+        },
+        {
+            "County": "Park",
+            "Republican": 3771,
+            "Democratic": 1923,
+            "Total": 5902
+        },
+        {
+            "County": "Petroleum",
+            "Republican": 232,
+            "Democratic": 87,
+            "Total": 325
+        },
+        {
+            "County": "Phillips",
+            "Republican": 1659,
+            "Democratic": 828,
+            "Total": 2557
+        },
+        {
+            "County": "Pondera",
+            "Republican": 1890,
+            "Democratic": 1215,
+            "Total": 3292
+        },
+        {
+            "County": "Powder River",
+            "Republican": 844,
+            "Democratic": 267,
+            "Total": 1217
+        },
+        {
+            "County": "Powell",
+            "Republican": 1720,
+            "Democratic": 1050,
+            "Total": 2882
+        },
+        {
+            "County": "Prairie",
+            "Republican": 685,
+            "Democratic": 303,
+            "Total": 999
+        },
+        {
+            "County": "Ravalli",
+            "Republican": 4611,
+            "Democratic": 2480,
+            "Total": 7458
+        },
+        {
+            "County": "Richland",
+            "Republican": 2645,
+            "Democratic": 1438,
+            "Total": 4300
+        },
+        {
+            "County": "Roosevelt",
+            "Republican": 2304,
+            "Democratic": 1464,
+            "Total": 3907
+        },
+        {
+            "County": "Rosebud",
+            "Republican": 1486,
+            "Democratic": 777,
+            "Total": 2350
+        },
+        {
+            "County": "Sanders",
+            "Republican": 1779,
+            "Democratic": 1197,
+            "Total": 3251
+        },
+        {
+            "County": "Sheridan",
+            "Republican": 1500,
+            "Democratic": 1197,
+            "Total": 2780
+        },
+        {
+            "County": "Silver Bow",
+            "Republican": 7967,
+            "Democratic": 11704,
+            "Total": 20404
+        },
+        {
+            "County": "Stillwater",
+            "Republican": 1698,
+            "Democratic": 716,
+            "Total": 2499
+        },
+        {
+            "County": "Sweet Grass",
+            "Republican": 1260,
+            "Democratic": 350,
+            "Total": 1658
+        },
+        {
+            "County": "Teton",
+            "Republican": 1991,
+            "Democratic": 1121,
+            "Total": 3321
+        },
+        {
+            "County": "Toole",
+            "Republican": 1679,
+            "Democratic": 897,
+            "Total": 2815
+        },
+        {
+            "County": "Treasure",
+            "Republican": 377,
+            "Democratic": 176,
+            "Total": 574
+        },
+        {
+            "County": "Valley",
+            "Republican": 3210,
+            "Democratic": 1973,
+            "Total": 5348
+        },
+        {
+            "County": "Wheatland",
+            "Republican": 761,
+            "Democratic": 445,
+            "Total": 1326
+        },
+        {
+            "County": "Wibaux",
+            "Republican": 390,
+            "Democratic": 283,
+            "Total": 703
+        },
+        {
+            "County": "Yellowstone",
+            "Republican": 25205,
+            "Democratic": 13602,
+            "Total": 40237
+        }
+    ],
+    [
+        {
+            "County": "Beaverhead",
+            "Republican": 2461,
+            "Democratic": 1013,
+            "Total": 3543
+        },
+        {
+            "County": "Big Horn",
+            "Republican": 1615,
+            "Democratic": 1962,
+            "Total": 3630
+        },
+        {
+            "County": "Blaine",
+            "Republican": 1349,
+            "Democratic": 1356,
+            "Total": 2739
+        },
+        {
+            "County": "Broadwater",
+            "Republican": 820,
+            "Democratic": 557,
+            "Total": 1389
+        },
+        {
+            "County": "Carbon",
+            "Republican": 2121,
+            "Democratic": 1853,
+            "Total": 4045
+        },
+        {
+            "County": "Carter",
+            "Republican": 558,
+            "Democratic": 344,
+            "Total": 972
+        },
+        {
+            "County": "Cascade",
+            "Republican": 15289,
+            "Democratic": 14678,
+            "Total": 30511
+        },
+        {
+            "County": "Chouteau",
+            "Republican": 1814,
+            "Democratic": 1568,
+            "Total": 3465
+        },
+        {
+            "County": "Custer",
+            "Republican": 3120,
+            "Democratic": 2425,
+            "Total": 5647
+        },
+        {
+            "County": "Daniels",
+            "Republican": 816,
+            "Democratic": 797,
+            "Total": 1639
+        },
+        {
+            "County": "Dawson",
+            "Republican": 2639,
+            "Democratic": 2201,
+            "Total": 4960
+        },
+        {
+            "County": "Deer Lodge",
+            "Republican": 2197,
+            "Democratic": 3859,
+            "Total": 6176
+        },
+        {
+            "County": "Fallon",
+            "Republican": 934,
+            "Democratic": 847,
+            "Total": 1797
+        },
+        {
+            "County": "Fergus",
+            "Republican": 3556,
+            "Democratic": 2470,
+            "Total": 6160
+        },
+        {
+            "County": "Flathead",
+            "Republican": 10494,
+            "Democratic": 7827,
+            "Total": 18845
+        },
+        {
+            "County": "Gallatin",
+            "Republican": 11062,
+            "Democratic": 6215,
+            "Total": 17460
+        },
+        {
+            "County": "Garfield",
+            "Republican": 625,
+            "Democratic": 273,
+            "Total": 922
+        },
+        {
+            "County": "Glacier",
+            "Republican": 1892,
+            "Democratic": 1755,
+            "Total": 3724
+        },
+        {
+            "County": "Golden Valley",
+            "Republican": 302,
+            "Democratic": 255,
+            "Total": 569
+        },
+        {
+            "County": "Granite",
+            "Republican": 746,
+            "Democratic": 509,
+            "Total": 1272
+        },
+        {
+            "County": "Hill",
+            "Republican": 3274,
+            "Democratic": 3878,
+            "Total": 7260
+        },
+        {
+            "County": "Jefferson",
+            "Republican": 1387,
+            "Democratic": 1210,
+            "Total": 2654
+        },
+        {
+            "County": "Judith Basin",
+            "Republican": 809,
+            "Democratic": 772,
+            "Total": 1614
+        },
+        {
+            "County": "Lake",
+            "Republican": 3809,
+            "Democratic": 3253,
+            "Total": 7210
+        },
+        {
+            "County": "Lewis and Clark",
+            "Republican": 10155,
+            "Democratic": 8118,
+            "Total": 18517
+        },
+        {
+            "County": "Liberty",
+            "Republican": 638,
+            "Democratic": 506,
+            "Total": 1163
+        },
+        {
+            "County": "Lincoln",
+            "Republican": 3017,
+            "Democratic": 3146,
+            "Total": 6283
+        },
+        {
+            "County": "McCone",
+            "Republican": 730,
+            "Democratic": 749,
+            "Total": 1499
+        },
+        {
+            "County": "Madison",
+            "Republican": 1688,
+            "Democratic": 870,
+            "Total": 2610
+        },
+        {
+            "County": "Meagher",
+            "Republican": 565,
+            "Democratic": 364,
+            "Total": 939
+        },
+        {
+            "County": "Mineral",
+            "Republican": 679,
+            "Democratic": 819,
+            "Total": 1514
+        },
+        {
+            "County": "Missoula",
+            "Republican": 16350,
+            "Democratic": 15099,
+            "Total": 31837
+        },
+        {
+            "County": "Musselshell",
+            "Republican": 1117,
+            "Democratic": 922,
+            "Total": 2065
+        },
+        {
+            "County": "Park",
+            "Republican": 3281,
+            "Democratic": 2364,
+            "Total": 5740
+        },
+        {
+            "County": "Petroleum",
+            "Republican": 211,
+            "Democratic": 110,
+            "Total": 331
+        },
+        {
+            "County": "Phillips",
+            "Republican": 1347,
+            "Democratic": 1117,
+            "Total": 2486
+        },
+        {
+            "County": "Pondera",
+            "Republican": 1666,
+            "Democratic": 1413,
+            "Total": 3150
+        },
+        {
+            "County": "Powder River",
+            "Republican": 683,
+            "Democratic": 429,
+            "Total": 1235
+        },
+        {
+            "County": "Powell",
+            "Republican": 1610,
+            "Democratic": 1302,
+            "Total": 2951
+        },
+        {
+            "County": "Prairie",
+            "Republican": 597,
+            "Democratic": 415,
+            "Total": 1019
+        },
+        {
+            "County": "Ravalli",
+            "Republican": 4894,
+            "Democratic": 3504,
+            "Total": 8694
+        },
+        {
+            "County": "Richland",
+            "Republican": 2189,
+            "Democratic": 1961,
+            "Total": 4263
+        },
+        {
+            "County": "Roosevelt",
+            "Republican": 1822,
+            "Democratic": 2061,
+            "Total": 3928
+        },
+        {
+            "County": "Rosebud",
+            "Republican": 1538,
+            "Democratic": 1413,
+            "Total": 3006
+        },
+        {
+            "County": "Sanders",
+            "Republican": 1738,
+            "Democratic": 1725,
+            "Total": 3576
+        },
+        {
+            "County": "Sheridan",
+            "Republican": 1114,
+            "Democratic": 1560,
+            "Total": 2714
+        },
+        {
+            "County": "Silver Bow",
+            "Republican": 7506,
+            "Democratic": 11377,
+            "Total": 19110
+        },
+        {
+            "County": "Stillwater",
+            "Republican": 1446,
+            "Democratic": 1143,
+            "Total": 2635
+        },
+        {
+            "County": "Sweet Grass",
+            "Republican": 1135,
+            "Democratic": 502,
+            "Total": 1659
+        },
+        {
+            "County": "Teton",
+            "Republican": 1730,
+            "Democratic": 1506,
+            "Total": 3345
+        },
+        {
+            "County": "Toole",
+            "Republican": 1469,
+            "Democratic": 1080,
+            "Total": 2603
+        },
+        {
+            "County": "Treasure",
+            "Republican": 315,
+            "Democratic": 239,
+            "Total": 564
+        },
+        {
+            "County": "Valley",
+            "Republican": 2520,
+            "Democratic": 2352,
+            "Total": 4959
+        },
+        {
+            "County": "Wheatland",
+            "Republican": 755,
+            "Democratic": 535,
+            "Total": 1320
+        },
+        {
+            "County": "Wibaux",
+            "Republican": 308,
+            "Democratic": 352,
+            "Total": 691
+        },
+        {
+            "County": "Yellowstone",
+            "Republican": 25201,
+            "Democratic": 18329,
+            "Total": 44125
+        }
+    ],
+    [
+        {
+            "County": "Beaverhead",
+            "Republican": 2955,
+            "Democratic": 842,
+            "Total": 4103
+        },
+        {
+            "County": "Big Horn",
+            "Republican": 1730,
+            "Democratic": 1644,
+            "Total": 3735
+        },
+        {
+            "County": "Blaine",
+            "Republican": 1686,
+            "Democratic": 1107,
+            "Total": 2995
+        },
+        {
+            "County": "Broadwater",
+            "Republican": 1052,
+            "Democratic": 401,
+            "Total": 1564
+        },
+        {
+            "County": "Carbon",
+            "Republican": 2471,
+            "Democratic": 1468,
+            "Total": 4363
+        },
+        {
+            "County": "Carter",
+            "Republican": 766,
+            "Democratic": 237,
+            "Total": 1058
+        },
+        {
+            "County": "Cascade",
+            "Republican": 17664,
+            "Democratic": 11105,
+            "Total": 32234
+        },
+        {
+            "County": "Chouteau",
+            "Republican": 2448,
+            "Democratic": 853,
+            "Total": 3583
+        },
+        {
+            "County": "Custer",
+            "Republican": 3533,
+            "Democratic": 1822,
+            "Total": 5816
+        },
+        {
+            "County": "Daniels",
+            "Republican": 1086,
+            "Democratic": 483,
+            "Total": 1666
+        },
+        {
+            "County": "Dawson",
+            "Republican": 3045,
+            "Democratic": 1543,
+            "Total": 5118
+        },
+        {
+            "County": "Deer Lodge",
+            "Republican": 1905,
+            "Democratic": 3077,
+            "Total": 5638
+        },
+        {
+            "County": "Fallon",
+            "Republican": 1286,
+            "Democratic": 512,
+            "Total": 1920
+        },
+        {
+            "County": "Fergus",
+            "Republican": 4455,
+            "Democratic": 1840,
+            "Total": 6852
+        },
+        {
+            "County": "Flathead",
+            "Republican": 15102,
+            "Democratic": 6349,
+            "Total": 23767
+        },
+        {
+            "County": "Gallatin",
+            "Republican": 12738,
+            "Democratic": 5747,
+            "Total": 21726
+        },
+        {
+            "County": "Garfield",
+            "Republican": 760,
+            "Democratic": 169,
+            "Total": 974
+        },
+        {
+            "County": "Glacier",
+            "Republican": 2283,
+            "Democratic": 1394,
+            "Total": 4093
+        },
+        {
+            "County": "Golden Valley",
+            "Republican": 362,
+            "Democratic": 155,
+            "Total": 556
+        },
+        {
+            "County": "Granite",
+            "Republican": 811,
+            "Democratic": 439,
+            "Total": 1371
+        },
+        {
+            "County": "Hill",
+            "Republican": 4448,
+            "Democratic": 2875,
+            "Total": 8089
+        },
+        {
+            "County": "Jefferson",
+            "Republican": 1841,
+            "Democratic": 1055,
+            "Total": 3223
+        },
+        {
+            "County": "Judith Basin",
+            "Republican": 1030,
+            "Democratic": 480,
+            "Total": 1627
+        },
+        {
+            "County": "Lake",
+            "Republican": 5083,
+            "Democratic": 2615,
+            "Total": 8532
+        },
+        {
+            "County": "Lewis and Clark",
+            "Republican": 12128,
+            "Democratic": 6815,
+            "Total": 21212
+        },
+        {
+            "County": "Liberty",
+            "Republican": 872,
+            "Democratic": 283,
+            "Total": 1256
+        },
+        {
+            "County": "Lincoln",
+            "Republican": 4202,
+            "Democratic": 2422,
+            "Total": 7348
+        },
+        {
+            "County": "McCone",
+            "Republican": 1000,
+            "Democratic": 349,
+            "Total": 1471
+        },
+        {
+            "County": "Madison",
+            "Republican": 2220,
+            "Democratic": 676,
+            "Total": 3145
+        },
+        {
+            "County": "Meagher",
+            "Republican": 689,
+            "Democratic": 247,
+            "Total": 990
+        },
+        {
+            "County": "Mineral",
+            "Republican": 800,
+            "Democratic": 660,
+            "Total": 1657
+        },
+        {
+            "County": "Missoula",
+            "Republican": 16161,
+            "Democratic": 13115,
+            "Total": 34594
+        },
+        {
+            "County": "Musselshell",
+            "Republican": 1279,
+            "Democratic": 784,
+            "Total": 2204
+        },
+        {
+            "County": "Park",
+            "Republican": 3929,
+            "Democratic": 1663,
+            "Total": 6195
+        },
+        {
+            "County": "Petroleum",
+            "Republican": 225,
+            "Democratic": 90,
+            "Total": 341
+        },
+        {
+            "County": "Phillips",
+            "Republican": 1723,
+            "Democratic": 745,
+            "Total": 2653
+        },
+        {
+            "County": "Pondera",
+            "Republican": 2270,
+            "Democratic": 897,
+            "Total": 3432
+        },
+        {
+            "County": "Powder River",
+            "Republican": 985,
+            "Democratic": 336,
+            "Total": 1443
+        },
+        {
+            "County": "Powell",
+            "Republican": 1770,
+            "Democratic": 883,
+            "Total": 2993
+        },
+        {
+            "County": "Prairie",
+            "Republican": 580,
+            "Democratic": 283,
+            "Total": 927
+        },
+        {
+            "County": "Ravalli",
+            "Republican": 7268,
+            "Democratic": 3063,
+            "Total": 11404
+        },
+        {
+            "County": "Richland",
+            "Republican": 3348,
+            "Democratic": 1252,
+            "Total": 5038
+        },
+        {
+            "County": "Roosevelt",
+            "Republican": 2298,
+            "Democratic": 1504,
+            "Total": 4160
+        },
+        {
+            "County": "Rosebud",
+            "Republican": 1875,
+            "Democratic": 1167,
+            "Total": 3443
+        },
+        {
+            "County": "Sanders",
+            "Republican": 2194,
+            "Democratic": 1395,
+            "Total": 3999
+        },
+        {
+            "County": "Sheridan",
+            "Republican": 1658,
+            "Democratic": 955,
+            "Total": 2912
+        },
+        {
+            "County": "Silver Bow",
+            "Republican": 7301,
+            "Democratic": 9721,
+            "Total": 19377
+        },
+        {
+            "County": "Stillwater",
+            "Republican": 1828,
+            "Democratic": 919,
+            "Total": 2984
+        },
+        {
+            "County": "Sweet Grass",
+            "Republican": 1169,
+            "Democratic": 440,
+            "Total": 1739
+        },
+        {
+            "County": "Teton",
+            "Republican": 2415,
+            "Democratic": 902,
+            "Total": 3564
+        },
+        {
+            "County": "Toole",
+            "Republican": 2000,
+            "Democratic": 634,
+            "Total": 2850
+        },
+        {
+            "County": "Treasure",
+            "Republican": 321,
+            "Democratic": 181,
+            "Total": 554
+        },
+        {
+            "County": "Valley",
+            "Republican": 3242,
+            "Democratic": 1567,
+            "Total": 5190
+        },
+        {
+            "County": "Wheatland",
+            "Republican": 742,
+            "Democratic": 381,
+            "Total": 1230
+        },
+        {
+            "County": "Wibaux",
+            "Republican": 450,
+            "Democratic": 219,
+            "Total": 731
+        },
+        {
+            "County": "Yellowstone",
+            "Republican": 27332,
+            "Democratic": 15272,
+            "Total": 48313
+        }
+    ],
+    [
+        {
+            "County": "Beaverhead",
+            "Republican": 3044,
+            "Democratic": 942,
+            "Total": 4035
+        },
+        {
+            "County": "Big Horn",
+            "Republican": 2390,
+            "Democratic": 2681,
+            "Total": 5110
+        },
+        {
+            "County": "Blaine",
+            "Republican": 1736,
+            "Democratic": 1229,
+            "Total": 2997
+        },
+        {
+            "County": "Broadwater",
+            "Republican": 1345,
+            "Democratic": 458,
+            "Total": 1830
+        },
+        {
+            "County": "Carbon",
+            "Republican": 2877,
+            "Democratic": 1657,
+            "Total": 4587
+        },
+        {
+            "County": "Carter",
+            "Republican": 823,
+            "Democratic": 194,
+            "Total": 1028
+        },
+        {
+            "County": "Cascade",
+            "Republican": 19846,
+            "Democratic": 14252,
+            "Total": 34505
+        },
+        {
+            "County": "Chouteau",
+            "Republican": 2425,
+            "Democratic": 896,
+            "Total": 3360
+        },
+        {
+            "County": "Custer",
+            "Republican": 3879,
+            "Democratic": 1982,
+            "Total": 5919
+        },
+        {
+            "County": "Daniels",
+            "Republican": 984,
+            "Democratic": 473,
+            "Total": 1477
+        },
+        {
+            "County": "Dawson",
+            "Republican": 3468,
+            "Democratic": 1776,
+            "Total": 5314
+        },
+        {
+            "County": "Deer Lodge",
+            "Republican": 1901,
+            "Democratic": 3539,
+            "Total": 5505
+        },
+        {
+            "County": "Fallon",
+            "Republican": 1237,
+            "Democratic": 569,
+            "Total": 1829
+        },
+        {
+            "County": "Fergus",
+            "Republican": 4585,
+            "Democratic": 1804,
+            "Total": 6459
+        },
+        {
+            "County": "Flathead",
+            "Republican": 17012,
+            "Democratic": 8310,
+            "Total": 25803
+        },
+        {
+            "County": "Gallatin",
+            "Republican": 15643,
+            "Democratic": 8163,
+            "Total": 24140
+        },
+        {
+            "County": "Garfield",
+            "Republican": 770,
+            "Democratic": 134,
+            "Total": 911
+        },
+        {
+            "County": "Glacier",
+            "Republican": 2228,
+            "Democratic": 2167,
+            "Total": 4435
+        },
+        {
+            "County": "Golden Valley",
+            "Republican": 384,
+            "Democratic": 211,
+            "Total": 600
+        },
+        {
+            "County": "Granite",
+            "Republican": 880,
+            "Democratic": 417,
+            "Total": 1322
+        },
+        {
+            "County": "Hill",
+            "Republican": 4635,
+            "Democratic": 3657,
+            "Total": 8390
+        },
+        {
+            "County": "Jefferson",
+            "Republican": 2226,
+            "Democratic": 1324,
+            "Total": 3618
+        },
+        {
+            "County": "Judith Basin",
+            "Republican": 1050,
+            "Democratic": 483,
+            "Total": 1550
+        },
+        {
+            "County": "Lake",
+            "Republican": 5754,
+            "Democratic": 3473,
+            "Total": 9348
+        },
+        {
+            "County": "Lewis and Clark",
+            "Republican": 13569,
+            "Democratic": 8768,
+            "Total": 22626
+        },
+        {
+            "County": "Liberty",
+            "Republican": 895,
+            "Democratic": 323,
+            "Total": 1229
+        },
+        {
+            "County": "Lincoln",
+            "Republican": 4080,
+            "Democratic": 2959,
+            "Total": 7184
+        },
+        {
+            "County": "McCone",
+            "Republican": 1015,
+            "Democratic": 459,
+            "Total": 1497
+        },
+        {
+            "County": "Madison",
+            "Republican": 2308,
+            "Democratic": 708,
+            "Total": 3069
+        },
+        {
+            "County": "Meagher",
+            "Republican": 771,
+            "Democratic": 283,
+            "Total": 1069
+        },
+        {
+            "County": "Mineral",
+            "Republican": 943,
+            "Democratic": 718,
+            "Total": 1704
+        },
+        {
+            "County": "Missoula",
+            "Republican": 19777,
+            "Democratic": 16540,
+            "Total": 36937
+        },
+        {
+            "County": "Musselshell",
+            "Republican": 1541,
+            "Democratic": 781,
+            "Total": 2359
+        },
+        {
+            "County": "Park",
+            "Republican": 4115,
+            "Democratic": 2387,
+            "Total": 6581
+        },
+        {
+            "County": "Petroleum",
+            "Republican": 258,
+            "Democratic": 86,
+            "Total": 347
+        },
+        {
+            "County": "Phillips",
+            "Republican": 1934,
+            "Democratic": 787,
+            "Total": 2749
+        },
+        {
+            "County": "Pondera",
+            "Republican": 2239,
+            "Democratic": 1039,
+            "Total": 3316
+        },
+        {
+            "County": "Powder River",
+            "Republican": 1066,
+            "Democratic": 346,
+            "Total": 1429
+        },
+        {
+            "County": "Powell",
+            "Republican": 1877,
+            "Democratic": 1066,
+            "Total": 3012
+        },
+        {
+            "County": "Prairie",
+            "Republican": 693,
+            "Democratic": 289,
+            "Total": 991
+        },
+        {
+            "County": "Ravalli",
+            "Republican": 8161,
+            "Democratic": 3825,
+            "Total": 12154
+        },
+        {
+            "County": "Richland",
+            "Republican": 3847,
+            "Democratic": 1382,
+            "Total": 5281
+        },
+        {
+            "County": "Roosevelt",
+            "Republican": 2431,
+            "Democratic": 1962,
+            "Total": 4464
+        },
+        {
+            "County": "Rosebud",
+            "Republican": 2413,
+            "Democratic": 1920,
+            "Total": 4402
+        },
+        {
+            "County": "Sanders",
+            "Republican": 2467,
+            "Democratic": 1654,
+            "Total": 4204
+        },
+        {
+            "County": "Sheridan",
+            "Republican": 1774,
+            "Democratic": 1087,
+            "Total": 2879
+        },
+        {
+            "County": "Silver Bow",
+            "Republican": 6637,
+            "Democratic": 11095,
+            "Total": 18010
+        },
+        {
+            "County": "Stillwater",
+            "Republican": 2118,
+            "Democratic": 1100,
+            "Total": 3258
+        },
+        {
+            "County": "Sweet Grass",
+            "Republican": 1417,
+            "Democratic": 378,
+            "Total": 1803
+        },
+        {
+            "County": "Teton",
+            "Republican": 2257,
+            "Democratic": 1102,
+            "Total": 3384
+        },
+        {
+            "County": "Toole",
+            "Republican": 1949,
+            "Democratic": 789,
+            "Total": 2768
+        },
+        {
+            "County": "Treasure",
+            "Republican": 353,
+            "Democratic": 209,
+            "Total": 576
+        },
+        {
+            "County": "Valley",
+            "Republican": 3123,
+            "Democratic": 1849,
+            "Total": 5046
+        },
+        {
+            "County": "Wheatland",
+            "Republican": 753,
+            "Democratic": 407,
+            "Total": 1173
+        },
+        {
+            "County": "Wibaux",
+            "Republican": 423,
+            "Democratic": 216,
+            "Total": 651
+        },
+        {
+            "County": "Yellowstone",
+            "Republican": 34124,
+            "Democratic": 19437,
+            "Total": 54153
+        }
+    ],
+    [
+        {
+            "County": "Beaverhead",
             "Republican": 2668,
             "Democratic": 1274,
             "Total": 3998
@@ -3006,7 +4696,7 @@
         },
         {
             "County": "Toole",
-            "Republican": "1,596",
+            "Republican": 1596,
             "Democratic": 467,
             "Total": 2119
         },
